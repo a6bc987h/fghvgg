@@ -35,13 +35,11 @@ I'm a modular group management bot with a few fun extras! Have a look at the fol
 A few handy commands are:
  - /start: starts me! You've probably already used this.
  - /help: gets this message out; I'll tell you more about myself!
- - /about: get more details about us.
-
+ - /about: type it on our group to know about us
 
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ABOUT_STRING = """[Click here to know more about us](https://telegra.ph/GROUP-RULES-08-12)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
