@@ -22,7 +22,7 @@ PM_START_TEXT = """
 Hai {}, 
 My name is {}! 
 I'm a group manager bot of [ɴᴇᴡs ᴄᴏʀɴᴇʀ](t.me/news_corner).
-I'm here to help you manage ɴᴇᴡs ᴄᴏʀɴᴇʀ! Hit /help to find out more about how to use me to my full potential.
+I'm here to help the  ɴᴇᴡs ᴄᴏʀɴᴇʀ Group! Hit /help to find out more about how to use me to my full potential.
 Our Channel 👉 @TgNewsCorner
 
 [Click Here To Join Our Group](https://telegram.me/news_corner)
